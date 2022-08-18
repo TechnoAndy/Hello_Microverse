@@ -1,4 +1,4 @@
-Project Name
+Hello Microverse
 
 First project for Microverse Full Stack Program Hello Microverse.
 
